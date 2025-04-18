@@ -52,4 +52,4 @@ Performance rating didn't always correlate with retention.
 Job role and satisfaction played a big part in attrition.
 
 💡 Conclusion
-This project helps HR departments and companies make data-driven decisions to reduce attrition and improve employee satisfaction and performance by understanding patterns and trends from the dataset.
+This project helps HR departments and companies make data-driven decisions to reduce attrition and improve employee satisfaction and performance by understanding patterns and trends from the datasets.
