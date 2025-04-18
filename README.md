@@ -13,7 +13,7 @@ Provide actionable insights for employee retention and policy planning.
 
 Analyze patterns in demographics (age, gender, experience).
 
-🧰 Tool & Libraries Used
+🧰 Tools & Libraries Used
 Pandas – Data manipulation
 
 NumPy – Numerical operations
