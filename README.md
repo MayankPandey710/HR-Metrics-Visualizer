@@ -1,5 +1,5 @@
 # HR-Metrics-Visualizer
- Project Overview
+ Project Overvie
 This project is a Python-based data science analysis using the IBM HR Analytics Employee Attrition & Performance dataset. The main goal is to understand patterns in employee attrition, performance trends, and factors affecting workforce stability.
 
 📊 Objectives
